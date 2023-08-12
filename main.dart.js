@@ -64599,7 +64599,7 @@ return A.af4(new A.qk(p,q,new A.KR(r,r,1/0,56),r),r,new A.u1(B.c9,this.d,new A.a
 pj(){var s=0,r=A.Y(t.H),q=this,p
 var $async$pj=A.Z(function(a,b){if(a===1)return A.V(b,r)
 while(true)switch(s){case 0:s=2
-return A.a0(A.av5(A.kv("https://newsapi.org/v2/everything?q=apple&from=2023-08-11&to=2023-08-11&sortBy=popularity&apiKey=aed2cf8f75024192ae0468ff9b7ecb59")),$async$pj)
+return A.a0(A.av5(A.kv("https://json-server-133fa62ml-mahesh45-py.vercel.app/news")),$async$pj)
 case 2:p=b
 if(p.b===200)q.aC(new A.a3Z(q,B.aY.HS(0,A.auN(A.asI(p.e).c.a.j(0,"charset")).cQ(0,p.w),null)))
 else q.e=[]
