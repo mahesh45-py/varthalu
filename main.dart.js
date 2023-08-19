@@ -64820,7 +64820,7 @@ var $async$pn=A.Z(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 i=t.N
 s=6
-return A.a0(A.avx(A.j_("https://www.ntnews.com/wp-json/ntnews/v1/latest-news-api",0,null),A.aK(["Sec-Fetch-Mode","no-cors"],i,i)),$async$pn)
+return A.a0(A.avx(A.j_("https://www.ntnews.com/wp-json/ntnews/v1/latest-news-api",0,null),A.aK(["mode","no-cors"],i,i)),$async$pn)
 case 6:n=b
 if(n.b===200){m=[]
 i=n
