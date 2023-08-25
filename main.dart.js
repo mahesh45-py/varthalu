@@ -64820,7 +64820,7 @@ var $async$pn=A.Z(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 i=t.N
 s=6
-return A.a0(A.avx(A.j_("https://video-call-mu.vercel.app/api/news",0,null),A.aK(["Content-Type","application/json","Access-Control-Allow-Origin","*","Access-Control-Allow-Methods","GET,PUT,PATCH,POST,DELETE","Access-Control-Allow-Headers","Origin, X-Requested-With, Content-Type, Accept"],i,i)),$async$pn)
+return A.a0(A.avx(A.j_("https://video-call-mu.vercel.app/api/news",0,null),A.aK(["content-type","application/json","access-control-allow-origin","*","access-control-allow-methods","GET,PUT,PATCH,POST,DELETE","access-control-allow-headers","Origin, X-Requested-With, Content-Type, Accept"],i,i)),$async$pn)
 case 6:n=b
 if(n.b===200){m=[]
 i=n
