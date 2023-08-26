@@ -67412,7 +67412,7 @@ A.a68.prototype={
 $0(){this.a.r=!1},
 $S:0}
 A.Em.prototype={
-P(a){var s=this,r=null,q=A.a([new A.Cs(new A.ei(B.En,new A.C2(new A.r3("images/background.jpg"),B.wk),r,r,r,r,B.b7),A.f2("Top 20 News Articles",A.jc(r,r,B.i,r,r,r,r,r,r,r,r,25,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),r),A.m5(A.iP(B.zS,r,r),new A.Y1(s,a),A.f2("Latest 20",r)),A.m5(A.iP(B.zT,r,r),new A.Y2(s,a),A.f2("Andhra Top News",r)),A.m5(A.iP(B.zN,r,r),new A.Y3(s,a),A.f2("Movies",r)),A.m5(A.iP(B.zR,r,r),new A.Y4(s,a),A.f2("Sports",r)),A.m5(A.iP(B.zV,r,r),new A.Y5(s,a),A.f2("Science & Technology",r)),A.m5(A.iP(B.zP,r,r),new A.Y6(s,a),A.f2("Career",r)),A.m5(A.iP(B.zU,r,r),new A.Y7(s,a),A.f2("Economy",r)),A.m5(A.iP(B.zW,r,r),new A.Y8(s,a),A.f2("Devotional",r))],t.F),p=A.aN([null,0],t.LO,t.S),o=!0
+P(a){var s=this,r=null,q=A.a([new A.Cs(new A.ei(B.En,new A.C2(new A.r3("assets/images/background.jpg"),B.wk),r,r,r,r,B.b7),A.f2("Top 20 News Articles",A.jc(r,r,B.i,r,r,r,r,r,r,r,r,25,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),r),A.m5(A.iP(B.zS,r,r),new A.Y1(s,a),A.f2("Latest 20",r)),A.m5(A.iP(B.zT,r,r),new A.Y2(s,a),A.f2("Andhra Top News",r)),A.m5(A.iP(B.zN,r,r),new A.Y3(s,a),A.f2("Movies",r)),A.m5(A.iP(B.zR,r,r),new A.Y4(s,a),A.f2("Sports",r)),A.m5(A.iP(B.zV,r,r),new A.Y5(s,a),A.f2("Science & Technology",r)),A.m5(A.iP(B.zP,r,r),new A.Y6(s,a),A.f2("Career",r)),A.m5(A.iP(B.zU,r,r),new A.Y7(s,a),A.f2("Economy",r)),A.m5(A.iP(B.zW,r,r),new A.Y8(s,a),A.f2("Devotional",r))],t.F),p=A.aN([null,0],t.LO,t.S),o=!0
 o=o?B.vO:r
 return new A.Co(B.i,new A.DK(new A.a1o(!0,!0,!0,q,p),B.aw,B.bk,!1,r,r,o,!1,r,9,B.aC,B.Gb,r,B.am,r),r)}}
 A.Y1.prototype={
