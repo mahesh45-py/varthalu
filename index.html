@@ -38,8 +38,28 @@
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="./flutter.js" defer></script>
+  <script src="https://hammerjs.github.io/dist/hammer.min.js"></script>
+    <script>
+        // Get the container element for the reels app
+        const container = document.getElementById('cont');
+
+        // Initialize Hammer.js
+        const hammer = new Hammer(container);
+
+        // Recognize pan (drag) events
+        hammer.on('pan', (ev) => {
+            // Handle pan events here
+            console.log('Pan event:', ev);
+        });
+
+        // Recognize panend (drag end) events
+        hammer.on('panend', (ev) => {
+            // Handle panend events here
+            console.log('Panend event:', ev);
+        });
+    </script>
 </head>
-<body>
+<body id="cont">
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
